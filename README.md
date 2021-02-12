@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Basic-
+# Tic-Tac-Toe-Basic
 A GUI based tic-tac-toe game using Python Tkinter module, where player 1 is X who begins the game while player 2 is O
 
 To run:
